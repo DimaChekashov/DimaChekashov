@@ -1,5 +1,5 @@
 ### Hi there 👋
-A middle Front-end developer with 3 years of web sites development experience. Has strong communication and technical knowledge. I am driven by roles that will leverage my strengths in Frontend.
+A Front-end developer with 3 years of web sites development experience. Has strong communication and technical knowledge. I am driven by roles that will leverage my strengths in Frontend.
 
 ⚡ Solid skills in Javascript.
 
