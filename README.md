@@ -18,6 +18,22 @@
   </h1>
 </div>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="600">
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I'm working as Front End Developer and contributing to frontend for building web applications.
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve tasks on Codewars and read tech articles.
+- :mailbox: How to reach me: [![HabrCareer Badge](https://img.shields.io/badge/HabrCareer-informational?logo=habr&logoColor=white)](https://career.habr.com/foxsayjs)
+
+
 A Front-end developer with 3 years of web sites development experience. Has strong communication and technical knowledge. I am driven by roles that will leverage my strengths in Frontend.
 
 ⚡ Solid skills in Javascript.
