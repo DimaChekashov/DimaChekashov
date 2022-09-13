@@ -33,6 +33,14 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :zap: In my free time, I solve tasks on Codewars and read tech articles.
 - :mailbox: How to reach me: [![HabrCareer Badge](https://img.shields.io/badge/HabrCareer-informational?logo=habr&logoColor=white)](https://career.habr.com/foxsayjs)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/javascript-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+
 
 A Front-end developer with 3 years of web sites development experience. Has strong communication and technical knowledge. I am driven by roles that will leverage my strengths in Frontend.
 
