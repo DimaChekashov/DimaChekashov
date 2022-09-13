@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/137EaR4vAOCn1S/giphy.webp" width="100%">
-  
-  <br>
+ 
+  <br><br>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/foxsayjs">
