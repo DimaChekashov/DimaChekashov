@@ -58,6 +58,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaChekashov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/DimaChekashov?theme=dark&font=PT%20Sans)](https://github.com/JacobLinCool/LeetCode-Stats-Card)
+
+<img src="https://www.codewars.com/users/DimaChekashov/badges/large" alt="codewars">
+
 <!-- A Front-end developer with 3 years of web sites development experience. Has strong communication and technical knowledge. I am driven by roles that will leverage my strengths in Frontend.
 
 ⚡ Solid skills in Javascript. -->
