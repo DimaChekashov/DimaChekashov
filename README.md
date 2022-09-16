@@ -7,6 +7,9 @@
     <a href="https://www.linkedin.com/in/foxsayjs">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
     </a>
+    <a href="https://t.me/FoxSayJS">
+      <img src="https://img.shields.io/badge/Telegram-azure?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
+    </a>
     <a href="https://career.habr.com/foxsayjs">
       <img src="https://img.shields.io/badge/HabrCareer-informational?logo=habr&logoColor=white&style=for-the-badge" alt="HabrCareer Badge">
     </a>
