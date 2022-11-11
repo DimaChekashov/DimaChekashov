@@ -22,11 +22,11 @@
   </h1>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="600">
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ### :man_technologist: About Me :
 
